@@ -1,8 +1,7 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
 ---
+# L'association "Coeur en pelote"
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Coeur en pelote est **une association** qui a pour objet de venir en aide aux chats et de les proposer à l'adoption. 
